@@ -16,7 +16,7 @@ Installing guide : https://www.digitalocean.com/community/tutorials/how-to-instt
 ```
 git clone https://github.com/0c34/govwa.git
 
-git pull (to update) test1234
+git pull (to update) test12345
 
 ```
 #### Install dependency packages
