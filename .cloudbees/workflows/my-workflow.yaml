@@ -30,7 +30,7 @@ jobs:
           alias: 020229604682.dkr.ecr.us-east-1.amazonaws.com/throwaway/actions/vulnerable-image:vuln-0.1
       - id: register-artifact
         name: Register the artifact
-        uses: cloudbees-io/register-build-artifact@v1
+        uses: cloudbees-io/register-build-artifact@v2
         with:
           name: vulnRepoProd
           version: Vuln-0.1
